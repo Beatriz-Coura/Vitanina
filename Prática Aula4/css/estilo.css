@@ -1,0 +1,52 @@
+body {
+    
+    margin: 0px;
+}
+
+#Cor-de-fundo {
+   border: 24px solid white ;
+    background-color:#e2d8e7;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    
+}
+
+#Topo-do-site {
+    color: #fff;
+    background-color:#21022d;
+    text-align: center;
+    margin: 0px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+
+
+#IMGF{
+    width: 600px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#H2C {
+    text-align: center;
+}
+
+#Final-do-site {
+    color: #fff;
+    background-color:#21022d;
+    text-align: center;
+    margin-top: 10px;
+}
+h2 {
+margin-top: 16px;
+margin-left: 16px;
+}
+#Ajustar-margem {
+    margin: 64px;
+}
